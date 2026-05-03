@@ -1,0 +1,25 @@
+Dropped_Feature,Correlated_With,Correlation
+ ROA(B) before interest and depreciation after tax, ROA(C) before interest and depreciation before interest,0.986581451245315
+ ROA(B) before interest and depreciation after tax, ROA(A) before interest and % after tax,0.9545903560684539
+ Realized Sales Gross Margin, Operating Gross Margin,0.999503730926081
+ After-tax net Interest Rate, Pre-tax net Interest Rate,0.9861414334465278
+ Continuous interest rate (after tax), Pre-tax net Interest Rate,0.999153045142895
+ Continuous interest rate (after tax), After-tax net Interest Rate,0.9882389274658334
+ Net Value Per Share (A), Net Value Per Share (B),0.999256349996549
+ Net Value Per Share (C), Net Value Per Share (B),0.9990757944971247
+ Net Value Per Share (C), Net Value Per Share (A),0.9998203453303611
+ Per Share Net profit before tax (Yuan ¥), Persistent EPS in the Last Four Seasons,0.9541289628983495
+ Regular Net Profit Growth Rate, After-tax Net Profit Growth Rate,0.9961341699344487
+ Net worth/Assets, Debt ratio %,0.9999999999999998
+ Operating profit/Paid-in capital, Operating Profit Per Share (Yuan ¥),0.9989131043661144
+ Net profit before tax/Paid-in capital, Persistent EPS in the Last Four Seasons,0.9570850794570628
+ Net profit before tax/Paid-in capital, Per Share Net profit before tax (Yuan ¥),0.9606687882976138
+ Cash Flow to Sales, Working capitcal Turnover Rate,0.9515167418138588
+ Current Liability to Liability, Current Liabilities/Liability,1.0
+ Current Liability to Equity, Current Liabilities/Equity,1.0
+ Net Income to Total Assets, ROA(A) before interest and % after tax,0.972267611396469
+ Gross Profit to Sales, Operating Gross Margin,0.9999999929226491
+ Gross Profit to Sales, Realized Sales Gross Margin,0.9995036658920678
+ Liability to Equity, Borrowing dependency,0.9535802411896541
+ Liability to Equity, Current Liabilities/Equity,0.97167530681661
+ Liability to Equity, Current Liability to Equity,0.97167530681661
